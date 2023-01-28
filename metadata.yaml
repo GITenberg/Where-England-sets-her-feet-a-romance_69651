@@ -1,5 +1,8 @@
 _repo: Where-England-sets-her-feet-a-romance_69651
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Capes, Bernard
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5344
     wikipedia: https://en.wikipedia.org/wiki/Bernard_Capes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69651#Where-England-sets-her-feet-a-romance
 gutenberg_issued: '2022-12-28'
 identifiers:
   gutenberg: '69651'
